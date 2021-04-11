@@ -1,4 +1,4 @@
-# GlowScript 2.9 VPython
+# GlowScript 2.9 VPython by Arijit Aich
 f1=gcurve()
 ground=box(pos=vector(0,0,0), size=vector(10,0.2,1), color=color.green)
 ball=sphere(pos=vector(0,0,0), radius=0.1, color=color.yellow)
